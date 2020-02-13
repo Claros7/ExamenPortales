@@ -120,10 +120,10 @@ html {
     padding: 0.625em;
   }
   .sidebar ul li:hover {
-    background-color: #00b8e4;
+    background-color: rgb(202, 42, 29);
   }
   .sidebar ul li a {
-    color: #0083a4;
+    color: rgb(202, 42, 29);
     font-size: 1.25em;
     text-decoration: none;
   }
